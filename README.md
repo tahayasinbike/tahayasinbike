@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Taha</h1>
+![api-512d36c09662682717108a38bbb5c57d](https://github.com/tahayasinbike/tahayasinbike/assets/128709303/edafdd50-e656-444b-8b4d-540205d8417d)
+
+<h1 align="center">Welcome Senior</h1>
 <h3 align="center">Frontend Developer</h3>
 
 - 📫 How to reach me **tahayasin.bike@hotmail.com**
