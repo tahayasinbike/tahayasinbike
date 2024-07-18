@@ -1,4 +1,4 @@
-<h3 align="center">DeVast Mobile App Development Team Member</h3>
+<h3 align="center">Mobile App Developer</h3>
 
 - 📫 How to reach me **tahayasin.bike@hotmail.com**
 
