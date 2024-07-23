@@ -1,6 +1,7 @@
 <h3 align="center">Mobile App Developer</h3>
 
-![giff](https://github.com/user-attachments/assets/f3f26fae-c6d3-471c-bdcf-b45e19d9d6af)
+
+![YOU’VE MADE NO PROGRESS](https://github.com/user-attachments/assets/d639ff22-0eac-40f2-a099-d41cc4662b12)
 
 
 
