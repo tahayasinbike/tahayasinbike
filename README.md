@@ -5,4 +5,3 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahayasinbike&theme=dark" alt="tahayasinbike" /></p>
