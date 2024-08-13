@@ -1,7 +1,18 @@
-<h3 align="center">Mobile App Developer</h3>
-
-
-![YOU’VE MADE NO PROGRESS](https://github.com/user-attachments/assets/d639ff22-0eac-40f2-a099-d41cc4662b12)
-
-
-
+```dart
+class AboutMe {
+  final fullName = 'Taha Yasin Bike';
+  final title = 'Mobile Developer';
+  final location = 'Istanbul, Turkey 🇹🇷';
+  var skills = [
+    'Flutter Developer (2+ Years)',
+    'Swift',
+    'C',
+    'C++'
+    'Python'
+    'Team Lead',
+  ];
+  final social = {
+    'LinkedIn': 'https://www.linkedin.com/in/taha-yasin-bike-97041180/',
+    'GitHub': 'https://github.com/tahayasinbike',
+  };
+}
