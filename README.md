@@ -7,9 +7,10 @@ class AboutMe {
     'Flutter Developer (2+ Years)',
     'Swift',
     'C',
-    'C++'
-    'Python'
-    'Team Lead',
+    'C++',
+    'Python',
+    'Java',
+    'Team Lead'
   ];
   final social = {
     'LinkedIn': 'https://www.linkedin.com/in/taha-yasin-bike-97041180/',
