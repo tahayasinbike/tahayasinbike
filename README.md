@@ -1,10 +1,10 @@
 ```dart
 class AboutMe {
   final fullName = 'Taha Yasin Bike';
-  final title = 'Mobile Developer';
+  final title = 'CE Student';
   final location = 'Istanbul, Turkey 🇹🇷';
   var skills = [
-    'Flutter Developer (2+ Years)',
+    'Flutter',
     'Swift',
     'C',
     'C++',
