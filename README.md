@@ -3,6 +3,7 @@ class AboutMe {
   final fullName = 'Taha Yasin Bike';
   final title = 'CE Student';
   final location = 'Istanbul, Turkey 🇹🇷';
+  final mail = 'tahabike@gmail.com'
   var skills = [
     'Flutter',
     'Swift',
