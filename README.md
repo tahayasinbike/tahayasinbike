@@ -6,7 +6,7 @@ class AboutMe {
   final mail = 'tahabike@gmail.com'
   var skills = [
     'Flutter',
-    'Swift',
+    'Swift UI',
     'C',
     'C++',
     'Python',
