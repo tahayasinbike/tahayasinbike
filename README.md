@@ -5,6 +5,7 @@ class AboutMe {
   final location = 'Istanbul, Turkey 🇹🇷';
   final mail = 'tahabike@gmail.com'
   var skills = [
+    'React-Native'
     'Flutter',
     'Swift UI',
     'C',
